@@ -1,8 +1,7 @@
-sistem informasi perpustakaan menggunakan laravel)
-url:
+projek yang saya kerjakan selama 2024 :
 
-Weather app Javascript (menggunakan weatherapi.com)
-url : http://weaher-app.infinityfreeapp.com/
+sistem informasi perpustakaan menggunakan laravel):https://github.com/StevanusAndika/projek-Laravel
 
-Anime list (using reactjs dan nextjs)
-   url : https://anime-list-livid.vercel.app/ 
+Weather app Javascript (menggunakan weatherapi.com): http://weaher-app.infinityfreeapp.com/
+
+Anime list (using reactjs dan nextjs) : https://anime-list-livid.vercel.app/ 
