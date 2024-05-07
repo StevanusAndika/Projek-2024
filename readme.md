@@ -1,4 +1,4 @@
-Berikut ini adalah penulisan yang lebih rapi untuk README.md projek yang telah Anda kerjakan selama tahun 2024:
+Berikut ini adalah hasil projek saya selama 2024:
 
 ---
 
@@ -29,10 +29,12 @@ Berikut adalah daftar proyek yang saya kerjakan selama tahun 2024:
    - 
 8. **E commerce dengan php**
    - Website: [Repo github](https://github.com/StevanusAndika/Web-Store)
-8. **Membuat Game dengan RPG Maker**
+9. **Membuat Game dengan RPG Maker**
    - Website: [Game saya](https://stevanusandika.github.io/Game/)
 
-   
+10. **Membuat web company profile untuk toko tamiya**
+   - Website: [Company profle](https://gardentamiya.github.io/Store/)
+
 ---
 
 Ini adalah kumpulan proyek yang telah saya kerjakan selama tahun 2024. Semoga bermanfaat!
