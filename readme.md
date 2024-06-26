@@ -37,7 +37,7 @@ Berikut adalah daftar proyek yang saya kerjakan selama tahun 2024:
 
 ---
 
-Ini adalah kumpulan proyek yang telah saya kerjakan selama tahun 2024. Semoga bermanfaat!
+Ini adalah kumpulan proyek yang telah saya kerjakan selama tahun 2024. Sebagai portofolio dan referensi bagi yang mencari tugas!
 
 --- 
 
