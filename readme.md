@@ -29,12 +29,15 @@ Berikut adalah daftar proyek yang saya kerjakan selama tahun 2024:
    - 
 8. **E commerce dengan php**
    - Website: [Repo github](https://github.com/StevanusAndika/Web-Store)
+     
 9. **Membuat Game dengan RPG Maker**
    - Website: [Game saya](https://stevanusandika.github.io/Game/)
 
 10. **Membuat web company profile untuk toko tamiya**
    - Website: [Company profle](https://gardentamiya.github.io/Store/)
-
+     
+11.**Membuat web pembayaran kampus yang terintegrasi dengan payment gateway xendit(projek kolaborasi)**
+     - Website: [Link Projek](https://payment-ipwija.dhaffaabdillah.com/)
 ---
 
 Ini adalah kumpulan proyek yang telah saya kerjakan selama tahun 2024. Sebagai portofolio dan referensi bagi yang mencari tugas!
