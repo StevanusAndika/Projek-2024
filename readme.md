@@ -15,8 +15,8 @@ Berikut adalah daftar proyek yang saya kerjakan selama tahun 2024:
 3. **Anime List menggunakan React.js dan Next.js**
    - Website: [Anime List](https://anime-list-livid.vercel.app/)
 
-4. **Company Profile**
-   - Website: [My Company Profile](https://stevanusandika.github.io/My-Company-Profile/)
+4. **Company Profile Bisnis saya**
+   - Website: [My Company Profile](https://stev-comp.vercel.app/)
 
 5. **Mini Proyek Payment Gateway**
    - Website: [Payment Gateway](https://midtrans-projek.vercel.app/)
@@ -33,11 +33,14 @@ Berikut adalah daftar proyek yang saya kerjakan selama tahun 2024:
 9. **Membuat Game dengan RPG Maker**
    - Website: [Game saya](https://stevanusandika.github.io/Game/)
 
-10. **Membuat web company profile untuk toko tamiya**
+10. **Membuat web company profile untuk toko tamiya(untuk client)**
    - Website: [Company profle](https://gardentamiya.github.io/Store/)
      
 11. **Membuat web pembayaran kampus yang terintegrasi dengan payment gateway xendit(projek kolaborasi)**
      - Website: [Link Projek](https://payment-ipwija.dhaffaabdillah.com/)
+
+12. **membuat realtime chat dengan express js dan talwind**
+     - Website: [Link Repo](https://github.com/StevanusAndika/realtime-chat)
 ---
 
 Ini adalah kumpulan proyek yang telah saya kerjakan selama tahun 2024. Sebagai portofolio dan referensi bagi yang mencari tugas!
