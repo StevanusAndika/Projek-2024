@@ -35,11 +35,14 @@ Berikut adalah daftar proyek yang saya kerjakan selama tahun 2024:
 
 10. **Membuat web company profile untuk toko tamiya(untuk client)**
    - Website: [Company profle](https://gardentamiya.github.io/Store/)
+
+11. **Membuat web company profile untuk toko funiture(untuk client)**
+    - Website: [Company profle](https://stevanusandika.github.io/funiture/#)
      
-11. **Membuat web pembayaran kampus yang terintegrasi dengan payment gateway xendit(projek kolaborasi)**
+12. **Membuat web pembayaran kampus yang terintegrasi dengan payment gateway xendit(projek kolaborasi)**
      - Website: [Link Projek](https://payment-ipwija.dhaffaabdillah.com/)
 
-12. **membuat realtime chat dengan express js dan talwind**
+13. **membuat realtime chat dengan express js dan talwind**
      - Website: [Link Repo](https://github.com/StevanusAndika/realtime-chat)
 ---
 
