@@ -26,7 +26,7 @@ Berikut adalah daftar proyek yang saya kerjakan selama tahun 2024:
 
 7. **Palindrome Checker**
    - Website: [Palindrome Checker](https://stevanusandika.github.io/Palindrome-check/)
-   - 
+     
 8. **E commerce dengan php**
    - Website: [Repo github](https://github.com/StevanusAndika/Web-Store)
      
@@ -44,6 +44,11 @@ Berikut adalah daftar proyek yang saya kerjakan selama tahun 2024:
 
 13. **membuat realtime chat dengan express js dan talwind**
      - Website: [Link Repo](https://github.com/StevanusAndika/realtime-chat)
+
+ 14. **membuat game edukasi berbasis rpg untuk tugas akhir interaksi manusia dan komputer**
+     - Website: [Link Repo](https://stevanusandika.github.io/RPG-Game/)
+
+       
 ---
 
 Ini adalah kumpulan proyek yang telah saya kerjakan selama tahun 2024. Sebagai portofolio dan referensi bagi yang mencari tugas!
