@@ -47,7 +47,9 @@ Berikut adalah daftar proyek yang saya kerjakan selama tahun 2024:
 
  14. **membuat game edukasi berbasis rpg untuk tugas akhir interaksi manusia dan komputer**
      - Website: [Link Repo](https://stevanusandika.github.io/RPG-Game/)
-
+       
+ 15. **membuat Sistem Informasi Pendaftaran Mahasiswa Baru Universitas IPWIJA (Projek Kolaborasi)**
+     - Website: [Link Repo](https://github.com/StevanusAndika/PMB-Projek)
        
 ---
 
