@@ -7,8 +7,7 @@ Berikut ini adalah hasil projek saya selama 2024:
 Berikut adalah daftar proyek yang saya kerjakan selama tahun 2024:
 
 1. **Sistem Informasi Perpustakaan menggunakan Laravel**
-   - GitHub: [projek-Laravel](https://github.com/StevanusAndika/projek-Laravel)
-
+    - Website: [Steven Book rent's](https://perpustakaan.steven-blog.my.id/)
 2. **Weather App menggunakan JavaScript (menggunakan weatherapi.com)**
    - Website: [Weather App](http://weaher-app.infinityfreeapp.com/)
 
